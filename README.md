@@ -10,7 +10,7 @@ UWPアプリケーションのサンプルを載せています。
 
 
 [0]: 00_hello_world/
-[0]: 00_navigate_page/
+[1]: 01_navigate_page/
 
 
 ## 環境
